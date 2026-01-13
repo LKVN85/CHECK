@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:11,Band Paulista HD
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/a06i/index.m3u8
+#EXTINF:11,Paramount+ 4
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/a06q/index.m3u8
+#EXTINF:11,Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/DiscoveryScience/index.m3u8
+#EXTINF:11,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/ESPN3/index.m3u8
+#EXTINF:11,Record SJRP HD
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/a06k/index.m3u8
+#EXTINF:11,TH+ SBT HD
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/a06f/index.m3u8
+#EXTINF:11,TV Escola
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/TVEscola/index.m3u8
+#EXTINF:11,TV TEM HD
+#EXTVLCOPT:network-caching=1000
+187.120.222.12:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="-",001 TDT AMERICA HD
+38.190.103.160:9999/play/a003/index.m3u8
+#EXTINF:-1 group-title="-",002 TDT ATV HD
+38.190.103.160:9999/play/a004/index.m3u8
+#EXTINF:-1 group-title="-",003 TDT ATV SUR HD
+38.190.103.160:9999/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",004 TDT ENLACE HD
+38.190.103.160:9999/play/a006/index.m3u8
+#EXTINF:-1 group-title="-",005 TDT EXITOSA HD
+38.190.103.160:9999/play/a007/index.m3u8
+#EXTINF:-1 group-title="-",006 TDT GLOBAL HD
+38.190.103.160:9999/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",007 TDT KARIBENA HD
+38.190.103.160:9999/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",008 TDT Latina HD
+38.190.103.160:9999/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",009 TDT PANAMERICANA HD
+38.190.103.160:9999/play/a002/index.m3u8
+#EXTINF:-1 group-title="-",010 TDT RPP HD
+38.190.103.160:9999/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",011 TDT TV PERU HD
+38.190.103.160:9999/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",012 TDT WILLAX 2 HD
+38.190.103.160:9999/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",013 TDT WILLAX HD
+38.190.103.160:9999/play/a001/index.m3u8
