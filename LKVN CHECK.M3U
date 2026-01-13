@@ -1,51 +1,52 @@
 #EXTM3U
-#EXTINF:11,Band Paulista HD
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/a06i/index.m3u8
-#EXTINF:11,Paramount+ 4
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/a06q/index.m3u8
-#EXTINF:11,Discovery Science HD
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/DiscoveryScience/index.m3u8
-#EXTINF:11,ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/ESPN3/index.m3u8
-#EXTINF:11,Record SJRP HD
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/a06k/index.m3u8
-#EXTINF:11,TH+ SBT HD
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/a06f/index.m3u8
-#EXTINF:11,TV Escola
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/TVEscola/index.m3u8
-#EXTINF:11,TV TEM HD
-#EXTVLCOPT:network-caching=1000
-187.120.222.12:8000/play/a06g/index.m3u8
+
 #EXTINF:-1 group-title="-",001 TDT AMERICA HD
-38.190.103.160:9999/play/a003/index.m3u8
+https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 group-title="-",002 TDT ATV HD
-38.190.103.160:9999/play/a004/index.m3u8
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 group-title="-",003 TDT ATV SUR HD
-38.190.103.160:9999/play/a005/index.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 group-title="-",004 TDT ENLACE HD
-38.190.103.160:9999/play/a006/index.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="-",005 TDT EXITOSA HD
-38.190.103.160:9999/play/a007/index.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="-",006 TDT GLOBAL HD
-38.190.103.160:9999/play/a008/index.m3u8
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="-",007 TDT KARIBENA HD
-38.190.103.160:9999/play/a009/index.m3u8
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="-",008 TDT Latina HD
-38.190.103.160:9999/play/a00a/index.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz1.smil/playlist.m3u8
 #EXTINF:-1 group-title="-",009 TDT PANAMERICANA HD
-38.190.103.160:9999/play/a002/index.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz2.smil/playlist.m3u8
 #EXTINF:-1 group-title="-",010 TDT RPP HD
-38.190.103.160:9999/play/a00b/index.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz3.smil/playlist.m3u8
 #EXTINF:-1 group-title="-",011 TDT TV PERU HD
-38.190.103.160:9999/play/a00c/index.m3u8
-#EXTINF:-1 group-title="-",012 TDT WILLAX 2 HD
-38.190.103.160:9999/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",013 TDT WILLAX HD
-38.190.103.160:9999/play/a001/index.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz4.smil/playlist.m3u8
+#EXTINF:-1,FOX ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/02.m3u8 
+#EXTINF:-1, FOX ACTION MOVIES ID 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8 
+#EXTINF:-1, FOX CRIME HD ID 
+http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8 
+#EXTINF:-1, FOX FAMLIY MOVIES ID 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/02.m3u8 
+#EXTINF:-1,FOX LIFE ID 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/02.m3u8 
+#EXTINF:-1, FOX MOVIES ID 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/02.m3u8 
+#EXTINF:-1,ID SEUMUR HIDUP 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/02.m3u8 
+#EXTINF:-1,CINTA ALAM 4K 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8 
+#EXTINF:-1, FILM BINTANG AR 
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8 
+#EXTINF:-1,STAR WORLD AR 
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8 
+#EXTINF:-1, FOX MOVIES PREMIUM 
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8 
+#EXTINF:-1,FOX MOVIES COMEDY 
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8 
+#EXTINF:-1, Bioskop Premium Fox 
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8 
+#EXTINF:-1,Film Fox Premium 
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8 
