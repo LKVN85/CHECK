@@ -1,19 +1,37 @@
 #EXTM3U 
-#EXTINF:-1 tvg-group-title=" HOADAOTV", PHÁO
-https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org//
-https://hoadaotv.org/uploads/video/febet-tvc.mp4|Referer=https://hoadaotv.org/
-#EXTINF:-1 tvg-group-title=" HOADAOTV", PHÁO hd
+#EXTINF:-1 tvg-group-title=" HOA ĐÀO TV", PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 tvg-group-title=" cabongTV", bt  CA 
-https://pull.dodotvstream.top/live/380860727.flv|Referer=https:cbtv1.org/Truc-Tiep/
-#EXTINF:-1 tvg-group-title=" cabongTV", test
-https://pull.dodotvstream.top/live/380860727.flv|Referer=https://https://cbtv1.org/Truc-Tiep/Bucks-vs-Timberwolves/9748
-#EXTINF:-1 tvg-group-title=" cabongTV",MAI ANH
-https://pull.dodotvstream.top/live/600070275.flv|Referer=https:cbtv1.org/Truc-Tiep/
-#EXTINF:-1 tvg-group-title=" cabongTV",CA KOI
-https://pull.dodotvstream.top/live/017583183.flv|Referer=https:cbtv1.org/Truc-Tiep/
-#EXTINF:-1 tvg-group-title=" cabongTV",CA RONG
-https://pull.dodotvstream.top/live/499799070.flv|Referer=https:cbtv1.org/Truc-Tiep/
+#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE PHÁO
+https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO 
+https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", CHIM NHỎ 
+https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE GẠO NẾP
+https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE BÚN CHẢ
+https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE HẠT TIÊU
+https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 tvg-group-title=" HỘI QUÁN TV", PHAN CA
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title=" HỘI QUÁN TV ", PHAN CÁO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title=" HỘI QUÁN TV", PHAN MÃO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN CA FOOT
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/bong-ro/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN CÁO BASKET
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/bong-ro/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN SON FOOT
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN MÃO BASKET
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 tvg-group-title=" KHAN DAI A ", SIEU PHAM
 https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|Referer=https://khandaia2.me/
 #EXTINF:-1 tvg-group-title=" KHAN DAI A ", SIEU PHAM 1 KDA
@@ -23,19 +41,37 @@ https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/i
 #EXTINF:-1 tvg-group-title=" KHAN DAI A ", NHA DAI KDA
 https://live.alilicloud.com/live/2d60f418fbfd75bafa4106d553c25682/playlist.m3u8|Referer=https://khandaia2.me/
 https://live.alilicloud.com/live/2d60f418fbfd75bafa4106d553c25682/playlist.m3u8|Referer=https://khandaia2.me/truc-tiep/
-#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN CA hoi quan
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/bong-ro/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN CÀO hoio quan
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/bong-ro/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 tvg-group-title=" BUNCHA ",  NHA DAI bun cha
 https://cdn-tvc.taoxanh.biz/web-live/MAN_N.mp4|Referer=https://bunchatv.net/truc-tiep/pachuca-vs-club-leon-0806-14-01-2026/601109367
 https://2893254555.global.cdnfastest.com/live/6966e3075baca_18754/index.m3u8?expire=1768955271&sign=01c11f94a22358cdf2633a8eafe0cb29|Referer=https://bunchatv.net/truc-tiep/
 https://2893254555.global.cdnfastest.com/live/6966e3075baca_18754/index.m3u8?expire=1768955271&sign=01c11f94a22358cdf2633a8eafe0cb29|Referer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6966e3075baca_18754/index.m3u8?expire=1768955271&sign=01c11f94a22358cdf2633a8eafe0cb29
+#EXTINF:-1 tvg-group-title=" BUNCHA ",  MÌ QUÃNG FOOT
+https://2893254555.global.cdnfastest.com/live/696702b45baca_4579/index.m3u8?expire=1768963380&sign=a9ea2195b5cd6ed9a98f6a2f2f0604e3|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title=" BUNCHA ",  LUCKY FOOT
+https://2893254555.global.cdnfastest.com/live/69670a612f376_72787/index.m3u8?expire=1768965345&sign=eadd35101a453ef2268ff8935211c093|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title=" BUNCHA ",  KHOAI MÔN
+https://2893254555.global.cdnfastest.com/live/696714342f376_19013/index.m3u8?expire=1768967860&sign=93a1a0b8b769a4cf6c7f0be67eb2bd3b|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title=" BUNCHA ",  BÚN CHÓ
+https://2893254555.global.cdnfastest.com/live/69671a4d2f376_18754/index.m3u8?expire=1768969421&sign=636c7bf63050305099afdbaf8b01e5f6|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title=" BUNCHA ",  PHỒN
+https://2893254555.global.cdnfastest.com/live/696718242f376_95586/index.m3u8?expire=1768968868&sign=e4f004a18a1cda6f8f9c80884448baec|Referer=https://bunchatv.net/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", NEYMAR
+https://gckc0525.edgemaxcdn.org/live/neymar.flv|Referer=https://live08.chuoichientv.com/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", CHUỐI TÂY
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv|Referer=https://live08.chuoichientv.com/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", CHUỐI CHÍN CHÍN
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv|Referer=https://live08.chuoichientv.com/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", DUY HƯNG
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv|Referer=https://live08.chuoichientv.com/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", ZÊMAN
+https://gckc0525.edgemaxcdn.org/live/manze.flv|Referer=https://live08.chuoichientv.com/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", CHUỐI LÙN
+https://gckc0525.edgemaxcdn.org/live/chuoilun.flv|Referer=https://live08.chuoichientv.com/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", CHUỐI BỰ
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv|Referer=https://live08.chuoichientv.com/
+#EXTINF:-1 group-title="CHUỐI CHIÊN", CHUỐI HỘT
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/
 #EXTINF:-1 tvg-group-title="CHUOI CHIEN ", CHUOI HOT
 https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/live/1491800/necaxa-vs-monterrey
 https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/live/1491800/
