@@ -1,61 +1,83 @@
 #EXTM3U 
 #EXTINF:-1 tvg-group-title=" HOA ĐÀO TV", PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE PHÁO
-https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO 
+#EXTINF:-1 tvg-group-title="HOA ĐÀO TV", TRÀ ĐÁ
+https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 tvg-group-title="HOA ĐÀO TV", MÈO BÉO 
 https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", CHIM NHỎ 
+#EXTINF:-1 tvg-group-title="HOA ĐÀO TV", CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE GẠO NẾP
+#EXTINF:-1 tvg-group-title="HOA ĐÀO TV", GẠO NẾP
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE BÚN CHẢ
+#EXTINF:-1 tvg-group-title="HOA ĐÀO TV", BÚN CHẢ
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", LIVE HẠT TIÊU
+#EXTINF:-1 tvg-group-title="HOA ĐÀO TV", HẠT TIÊU
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 tvg-group-title=" HỘI QUÁN TV", PHAN CA
+
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", PHAN CA
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" HỘI QUÁN TV ", PHAN CÁO
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", PHAN TÔM
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", THIÊN LÔI
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" HỘI QUÁN TV", PHAN MÃO
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV ", PHAN CÁO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", PHAN HẢI
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN CA FOOT
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/bong-ro/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN CÁO BASKET
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/bong-ro/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/truc-tiep/
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", PHAN CẬU CẢ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", PHAN CÁO BASKET
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN SON FOOT
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", PHAN SON
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" HOI QUAN ", PHAN MÃO BASKET
+#EXTINF:-1 tvg-group-title="HỘI QUÁN TV", PHAN MÃO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 tvg-group-title=" KHAN DAI A ", SIEU PHAM
+
+#EXTINF:-1 tvg-group-title="VÒNG CẤM TV", TIỂU BẢO
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 tvg-group-title="VÒNG CẤM TV", A PHỦ
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 tvg-group-title="VÒNG CẤM TV", VĂN PHONG
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 tvg-group-title="VÒNG CẤM TV", TIỂU TRÀ ĐÁ
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 tvg-group-title="VÒNG CẤM TV", TIỂU PÁO
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+
+#EXTINF:-1 tvg-group-title="KHAN DAI A", SIEU PHAM
 https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|Referer=https://khandaia2.me/
-#EXTINF:-1 tvg-group-title=" KHAN DAI A ", SIEU PHAM 1 KDA
-https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|Referer=https://khandaia2.me/truc-tiep/
-#EXTINF:-1 tvg-group-title=" KHAN DAI A ", SIEU PHAM 2 KDA
-https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|Referer=https://khandaia2.me/truc-tiep/necaxa-vs-monterrey-23xmvkh6pv8oqg8
-#EXTINF:-1 tvg-group-title=" KHAN DAI A ", NHA DAI KDA
-https://live.alilicloud.com/live/2d60f418fbfd75bafa4106d553c25682/playlist.m3u8|Referer=https://khandaia2.me/
-https://live.alilicloud.com/live/2d60f418fbfd75bafa4106d553c25682/playlist.m3u8|Referer=https://khandaia2.me/truc-tiep/
-#EXTINF:-1 tvg-group-title=" BUNCHA ",  NHA DAI bun cha
-https://cdn-tvc.taoxanh.biz/web-live/MAN_N.mp4|Referer=https://bunchatv.net/truc-tiep/pachuca-vs-club-leon-0806-14-01-2026/601109367
-https://2893254555.global.cdnfastest.com/live/6966e3075baca_18754/index.m3u8?expire=1768955271&sign=01c11f94a22358cdf2633a8eafe0cb29|Referer=https://bunchatv.net/truc-tiep/
-https://2893254555.global.cdnfastest.com/live/6966e3075baca_18754/index.m3u8?expire=1768955271&sign=01c11f94a22358cdf2633a8eafe0cb29|Referer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/6966e3075baca_18754/index.m3u8?expire=1768955271&sign=01c11f94a22358cdf2633a8eafe0cb29
-#EXTINF:-1 tvg-group-title=" BUNCHA ",  MÌ QUÃNG FOOT
+#EXTINF:-1 tvg-group-title="KHAN DAI A", TIỂU MÂN
+https://live3.fastestcdn-global.com/live3/bba3de8bd81e46ab8a506e84472d4bde_720/index.m3u8|Referer=https://khandaia2.me/
+#EXTINF:-1 tvg-group-title="KHAN DAI A", KAKA
+https://live3.fastestcdn-global.com/live3/ffbd4d5906204fef9c7a820601a74c69_720/index.m3u8|Referer=https://khandaia2.me/truc-tiep/
+https://live3.fastestcdn-global.com/live3/ffbd4d5906204fef9c7a820601a74c69_720/index.m3u8|Referer=https://khandaia2.me/
+#EXTINF:-1 tvg-group-title="KHAN DAI A", MÂY
+https://live3.fastestcdn-global.com/live3/56426b5f9d384ac99eb1d4022ed1e7e7_720/index.m3u8|Referer=https://khandaia2.me/
+#EXTINF:-1 tvg-group-title="KHAN DAI A", SIÊU GÁY
+https://live3.fastestcdn-global.com/live3/913c001cf051487b83d9b2c064453bbf_720/index.m3u8|Referer=https://khandaia2.me/truc-tiep/
+
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  TÔM CHUA
+https://2893254555.global.cdnfastest.com/live/696771612f376_4089/index.m3u8?expire=1768991713&sign=ea5fea290c36ba10233972bcc961b125|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  MÌ QUÃNG FOOT
 https://2893254555.global.cdnfastest.com/live/696702b45baca_4579/index.m3u8?expire=1768963380&sign=a9ea2195b5cd6ed9a98f6a2f2f0604e3|Referer=https://bunchatv.net/
-#EXTINF:-1 tvg-group-title=" BUNCHA ",  LUCKY FOOT
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  LUCKY FOOT
 https://2893254555.global.cdnfastest.com/live/69670a612f376_72787/index.m3u8?expire=1768965345&sign=eadd35101a453ef2268ff8935211c093|Referer=https://bunchatv.net/
-#EXTINF:-1 tvg-group-title=" BUNCHA ",  KHOAI MÔN
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  KHOAI MÔN
 https://2893254555.global.cdnfastest.com/live/696714342f376_19013/index.m3u8?expire=1768967860&sign=93a1a0b8b769a4cf6c7f0be67eb2bd3b|Referer=https://bunchatv.net/
-#EXTINF:-1 tvg-group-title=" BUNCHA ",  BÚN CHÓ
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  BÚN CHÓ
 https://2893254555.global.cdnfastest.com/live/69671a4d2f376_18754/index.m3u8?expire=1768969421&sign=636c7bf63050305099afdbaf8b01e5f6|Referer=https://bunchatv.net/
-#EXTINF:-1 tvg-group-title=" BUNCHA ",  PHỒN
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  PHỒN
 https://2893254555.global.cdnfastest.com/live/696718242f376_95586/index.m3u8?expire=1768968868&sign=e4f004a18a1cda6f8f9c80884448baec|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  BÚN THAN
+https://2893254555.global.cdnfastest.com/live/696763182f376_103/index.m3u8?expire=1768988056&sign=73a242a071d30117e2ae425c410501e6|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  BÚN RIÊU
+https://2893254555.global.cdnfastest.com/live/696770235baca_4439/index.m3u8?expire=1768991395&sign=0c92c0cc5c5258e09e2198b599a154aa|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  NEM NƯỚNG
+https://2893254555.global.cdnfastest.com/live/696747ee2f376_42127/index.m3u8?expire=1768981102&sign=322012cb90377589f8d6054cfbc3bae5|Referer=https://bunchatv.net/
+#EXTINF:-1 tvg-group-title="BÚN CHẢ TV",  A CHUN
+https://2893254555.global.cdnfastest.com/live/69676fa55baca_95554/index.m3u8?expire=1768991269&sign=68ba235e2ddc695df140a0c7ff949216|Referer=https://bunchatv.net/
+
 #EXTINF:-1 group-title="CHUỐI CHIÊN", NEYMAR
 https://gckc0525.edgemaxcdn.org/live/neymar.flv|Referer=https://live08.chuoichientv.com/
 #EXTINF:-1 group-title="CHUỐI CHIÊN", CHUỐI TÂY
@@ -72,14 +94,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoilun.flv|Referer=https://live08.chuoich
 https://gckc0525.edgemaxcdn.org/live/chuoito.flv|Referer=https://live08.chuoichientv.com/
 #EXTINF:-1 group-title="CHUỐI CHIÊN", CHUỐI HỘT
 https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/
-#EXTINF:-1 tvg-group-title="CHUOI CHIEN ", CHUOI HOT
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/live/1491800/necaxa-vs-monterrey
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/live/1491800/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/live/
+#EXTINF:-1 tvg-group-title="CHUỐI CHIÊN", CHUOI HOT
 https://gckc0525.edgemaxcdn.org/live/chuoihot.flv|Referer=https://live08.chuoichientv.com/
-#EXTINF:-1 tvg-group-title="CHUOI CHIEN ", NHA DAI chuoi chien
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://live08.chuoichientv.com/live/1491800/necaxa-vs-monterrey
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://live08.chuoichientv.com/live/1491800/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://live08.chuoichientv.com/live/
+#EXTINF:-1 tvg-group-title="CHUỐI CHIÊN", NHA DAI chuoi chien
 https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://live08.chuoichientv.com/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://live08.chuoichientv.com/live/1491801/pachuca-vs-leon
+#EXTINF:-1 tvg-group-title="XÔI LẠC TV", CH15
+https://live.golivenow71.com/d5d83fe5c34904759631742bc0e2cf28/1768433394340/rchtwtx/index.m3u8|Referer=https://xoilaczzgzz.tv/truc-tiep/
+https://mv-c767f67a88.fast5cdn.net/280cb684e6052c20a5209d1f20f6ec67/1768433440391/channel-15/channel-15.m3u8|Referer=https://xoilaczzgzz.tv/
+#EXTINF:-1 tvg-group-title="XÔI LẠC TV", CH6
+https://mv-c767f67a88.fast5cdn.net/5840b6d384e7260f872f13e928e3acb9/1768433757595/channel-6/index.m3u8|Referer=https://xoilaczzgzz.tv/
+https://mv-c767f67a88.fast5cdn.net/87aa7f60d5ad4565b0a0a8470d666a0c/1768433840952/channel-6/channel-6.m3u8
+#EXTINF:-1 tvg-group-title="XÔI LẠC TV", CH1
+https://live.golivenow71.com/e9cf67a73394efd44c36ca7632e0a809/1768433789473/lhsazur/index.m3u8|Referer=https://xoilaczzgzz.tv/
+#EXTINF:-1 tvg-group-title="XÔI LẠC TV", CH12
+https://mv-c767f67a88.fast5cdn.net/e56118bfb83283166363efbabca4fa28/1768433974917/channel-12/channel-12.m3u8|Referer=https://xoilaczzgzz.tv/
+https://mv-c767f67a88.fast5cdn.net/e56118bfb83283166363efbabca4fa28/1768433974917/channel-12/index.m3u8|Referer=https://xoilaczzgzz.tv/
