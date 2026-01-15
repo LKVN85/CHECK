@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="QUÊ CHOA TV", LIVE ALEX
+#EXTINF:-1 group-title="QUÊ CHOA TV", ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8|Referer=https://quechoa2.live/
-#EXTINF:-1 group-title="QUÊ CHOA TV", LIVE CỤ GIÀ
+#EXTINF:-1 group-title="QUÊ CHOA TV", CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="QUÊ CHOA TV", LIVE CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8|Referer=https://quechoa2.live/
-#EXTINF:-1 group-title="QUÊ CHOA TV", LIVE KHU MẤN
+#EXTINF:-1 group-title="QUÊ CHOA TV",  THIÊN ĐÔ
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8|Referer=https://quechoa2.live/
-#EXTINF:-1 group-title="QUÊ CHOA TV", THIÊN ĐÔ
+#EXTINF:-1 group-title="QUÊ CHOA TV", KHU MẤN
 https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="QUÊ CHOA TV", KHOAI TÂY
 https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8|Referer=https://quechoa2.live/
@@ -20,18 +20,18 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8|Referer=https://que
 
 #EXTINF:-1 group-title="HOA ĐÀO TV", BÚN CHẢ
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/ 
-#EXTINF:-1 group-title="HOA ĐÀO TV", PHÁO THẦN
-https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ
-https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO 
-https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", CHIM NHỎ 
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", PHÁO THẦN
+https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO 
+https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", GẠO NẾP
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", HẠT TIÊU
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ
+https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CA
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
@@ -77,21 +77,6 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://
 #EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU NGOAN ĐỒNG
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 
-#EXTINF:-1 group-title="NGOẠI HẠNG TV", A LONG
-|Referer=https://ngoaihangtv.live/
-#EXTINF:-1 group-title="NGOẠI HẠNG TV", MÁT GAI
-|Referer=https://ngoaihangtv.live/
-#EXTINF:-1 group-title="NGOẠI HẠNG TV", MADUEKE
-|Referer=https://ngoaihangtv.live/
-#EXTINF:-1 group-title="NGOẠI HẠNG TV", TIỂU NHỊ
-|Referer=https://ngoaihangtv.live/
-#EXTINF:-1 group-title="NGOẠI HẠNG TV", OHAHA
-|Referer=https://ngoaihangtv.live/
-#EXTINF:-1 group-title="NGOẠI HẠNG TV", BỦ NÔ
-|Referer=https://ngoaihangtv.live/
-#EXTINF:-1 group-title="NGOẠI HẠNG TV", A NHỮNG
-|Referer=https://ngoaihangtv.live/
-
 #EXTINF:-1 group-title="HIGHLIGHT", Albacete vs Real Madrid
 https://vz-90554445-476.b-cdn.net/7b090a72-5f8a-498f-b2c5-384ab59509dd/playlist.m3u8|Referer=https://xemlaitrandau.live/
 #EXTINF:-1 group-title="HIGHLIGHT", Chelsea vs Arsenal
@@ -103,11 +88,8 @@ https://vz-4ba437a2-af4.b-cdn.net/d62908e5-47eb-4bb8-b3ca-11efc561d50e/playlist.
 #EXTINF:-1 group-title="HIGHLIGHT", Barcelona vs Real Madrid
 https://vz-31e571fa-ede.b-cdn.net/11a2b229-46dd-40a3-ab45-bed33545c7d4/playlist.m3u8|Referer=https://xemlaitrandau.live/
 
-#EXTINF:-1 group-title="KHAN DAI A", SIEU PHAM
-https://live3.fastestcdn-global.com/live3/62f227a8b66f44cb84126f562b72a327_720/index.m3u8|Referer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|Referer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/ffbd4d5906204fef9c7a820601a74c69_720/index.m3u8|Referer=https://khandaia2.me/truc-tiep/
-https://live3.fastestcdn-global.com/live3/ffbd4d5906204fef9c7a820601a74c69_720/index.m3u8|Referer=https://khandaia2.me/
-#EXTINF:-1 group-title=" KHAN DAI A ", SIEU CAY
-https://live3.fastestcdn-global.com/live3/913c001cf051487b83d9b2c064453bbf_720/index.m3u8|Referer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/35abdfaba3794276bf83f1f6a9c28b79_720/index.m3u8|Referer=https://khandaia2.me/
+#EXTINF:-1 group-title="HỦ TIẾU TV", TARA
+https://cdn5.sovovl.com:8443/N835IutA0ml0A3zSOMXZtg/1768519846/live/blvtara/index.m3u8|Referer=https://tructiep.hutieu36.tv/
+#EXTINF:-1 group-title="HỦ TIẾU TV", TORO
+https://cdn2.sovovl.com:8443/WqwCgLmmztSrN3zZjajVUQ/1768520053/live/blvtoro/index.m3u8|Referer=https://tructiep.hutieu36.tv/
+
