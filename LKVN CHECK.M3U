@@ -96,13 +96,13 @@ https://cdn5.sovovl.com:8443/N835IutA0ml0A3zSOMXZtg/1768519846/live/blvtara/inde
 https://cdn2.sovovl.com:8443/WqwCgLmmztSrN3zZjajVUQ/1768520053/live/blvtoro/index.m3u8|Referer=https://tructiep.hutieu36.tv/
 
 #EXTINF:-1 group-title="RUNG 90TV", NOKIA
-https://edgemaxcdn-1.bongco50.xyz/live/nokia-hd/playlist.m3u8
+https://edgemaxcdn-1.bongco50.xyz/live/nokia-hd/playlist.m3u8|Referer=https://live.rung90tv.live/
 #EXTINF:-1 group-title="RUNG 90TV", SAMSUNG
-https://edgemaxcdn-1.bongco50.xyz/live/samsung-hd/playlist.m3u8
+https://edgemaxcdn-1.bongco50.xyz/live/samsung-hd/playlist.m3u8|Referer=https://live.rung90tv.live/
 #EXTINF:-1 group-title="RUNG 90TV", NHÀ ĐÀI 12
-https://edgemaxcdn-1.bongco50.xyz/live/m1l2/playlist.m3u8
+https://edgemaxcdn-1.bongco50.xyz/live/m1l2/playlist.m3u8|Referer=https://live.rung90tv.live/
 #EXTINF:-1 group-title="RUNG 90TV", NHÀ ĐÀI 11
-https://edgemaxcdn-1.bongco50.xyz/live/m1l1/playlist.m3u8
+https://edgemaxcdn-1.bongco50.xyz/live/m1l1/playlist.m3u8|Referer=https://live.rung90tv.live/
 
 
 
@@ -526,4 +526,5 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85675667.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="sport | AR: Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR | sport",sport | AR: Nile Sport
 http://acces4k.info:8089/live/1256890450567/3724705289264/85675668.m3u8
+
 
