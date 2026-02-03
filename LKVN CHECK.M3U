@@ -1,8 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="XTREAM", XT1
-https://d302.soft4game.com/o22/stream536/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjYgMzozOToyOCBQTSZoYXNoX3ZhbHVlPTVSbU1NMWoyOHUra2oxcTFNZ05Zc2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+https://d302.soft4game.com/o22/stream258/o/stream258/chunks.m3u8?nimblesessionid=35780959&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjYgMzo0ODozOSBQTSZoYXNoX3ZhbHVlPTF3aVE1c2x6WDNtNTV0Q3hLQ3RSdHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 #EXTINF:-1 group-title="XTREAM", XT2
 https://d302.soft4game.com/o22/stream536/o/stream536/chunks.m3u8?nimblesessionid=35777848&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjYgMzozOToyOCBQTSZoYXNoX3ZhbHVlPTVSbU1NMWoyOHUra2oxcTFNZ05Zc2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+#EXTINF:-1 group-title="XTREAM", XT3
+https://d302.soft4game.com/o22/stream228/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjYgMzo1MDoxOCBQTSZoYXNoX3ZhbHVlPXFtUXI2dWlVRUsxeGxGc3A3TEZqaXc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+
 #EXTINF:-1 group-title="GÀ VÀNG TV", GÀ SIÊU PHỆ
 https://stm02bc43163716.stream.hdplaylink.com/live7/8ba39f98f7f54a08969ef02bffceff1f_720/playlist.m3u8|Referer=https://xem1.gv04.live|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
@@ -306,6 +309,7 @@ http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/pr
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA",NBC Sports Washington (Geo)
 http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+
 
 
 
