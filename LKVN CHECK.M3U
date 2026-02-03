@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU CAY
-https://stm02bc48435558.stream.hdplaylink.com/live3/2938bf035dbf43a1af6a3aeac8fb69ba_720/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stm02bc48435558.stream.hdplaylink.com/live3/2938bf035dbf43a1af6a3aeac8fb69ba_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU CAY A
 https://stm02bc48435558.stream.hdplaylink.com/live3/2938bf035dbf43a1af6a3aeac8fb69ba_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="KHAN DAI A", KAKA
-https://live.alilicloud.com/live/1255e68ba32eb7180700caa256448a57/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/1255e68ba32eb7180700caa256448a57/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", ARNE SLOT
-https://live.alilicloud.com/live/d259c894d5218884a7097ec187346aa5/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/d259c894d5218884a7097ec187346aa5/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU PHÀM
-https://live3.fastestcdn-global.com/live3/913c001cf051487b83d9b2c064453bbf_720/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.fastestcdn-global.com/live3/913c001cf051487b83d9b2c064453bbf_720/index.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU GÁY
-https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-group-title="KHAN DAI A", TIỂU MÂN
-https://live3.fastestcdn-global.com/live3/bba3de8bd81e46ab8a506e84472d4bde_720/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.fastestcdn-global.com/live3/bba3de8bd81e46ab8a506e84472d4bde_720/index.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 
 
@@ -544,6 +544,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85675667.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="sport | AR: Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR | sport",sport | AR: Nile Sport
 http://acces4k.info:8089/live/1256890450567/3724705289264/85675668.m3u8
+
 
 
 
