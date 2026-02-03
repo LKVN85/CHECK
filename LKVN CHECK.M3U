@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CHUOI CHIEN", CHUOI TAY
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv|Referer=https://live11.chuoichientv.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHUOI CHIEN", CHUOI TAY A
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv|Referer=https://live11.chuoichientv.com
-#EXTINF:-1 group-title="CHUOI CHIEN", CHUOI TAY B
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU CAY
 https://stm02bc48435558.stream.hdplaylink.com/live3/2938bf035dbf43a1af6a3aeac8fb69ba_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", KAKA
@@ -14,7 +8,7 @@ https://live.alilicloud.com/live/f581b25df18b34409263a14e436e1091/playlist.m3u8|
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU PHÀM
 https://stm02bc48435558.stream.hdplaylink.com/live3/13389f42d3b648c3a78feeea243493f9_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU GÁY
-https://live3.fastestcdn-global.com/live3/0305bd705b77427b9bba7ae3c61f285e_720/index.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stm02bc48435558.global.hdplaylink.com/live3/af71675a72e847f8a6cc2be631367e10_720/chunklist.m3u8?ref=stm02bc48435558.stream.hdplaylink.com|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-group-title="KHAN DAI A", TIỂU MÂN
 https://live3.fastestcdn-global.com/live3/bba3de8bd81e46ab8a506e84472d4bde_720/index.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1,AE Mundo
@@ -298,6 +292,7 @@ http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/pr
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA",NBC Sports Washington (Geo)
 http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+
 
 
 
