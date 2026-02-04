@@ -9,9 +9,21 @@ https://a113.azplay24.me/hls/streama248205/index.m3u8?cst=d44bc39b3792c4bf4f21d4
 https://d302.soft4game.com/o22/stream86/o/stream86/chunks.m3u8?nimblesessionid=35972550&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTA6NDM6MzIgQU0maGFzaF92YWx1ZT10U0FmMklJaHFIK2Q4T1Y4dGNNbDJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 
 #EXTINF:-1 group-title="GIỜ VÀNG TV", A TỴ
-https://cdn.giovangtv.club/1770191712_hd/1770191712_hd@720p.m3u8|Referer=https://giovang.vip/
+https://cdn.giovangtv.club/1770191096_hd/1770191096_hd@720p.m3u8|Referer=https://giovang.vip/
 #EXTINF:-1 group-title="GIỜ VÀNG TV", PERRY
 https://cdn.giovangtv.club/1770194370_hd/1770194370_hd@720p.m3u8|Referer=https://giovang.vip/
+#EXTINF:-1 group-title="GIỜ VÀNG TV", A THÌN
+https://cdn.giovangtv.club/1770190520_hd/1770190520_hd@720p.m3u8|Referer=https://giovang.vip/
+#EXTINF:-1 group-title="GIỜ VÀNG TV", A THỎ
+https://cdn.giovangtv.club/1770190849_hd/1770190849_hd@720p.m3u8|Referer=https://giovang.vip/
+#EXTINF:-1 group-title="GIỜ VÀNG TV", A TUẤT
+https://cdn.giovangtv.club/1770191011_hd/1770191011_hd@720p.m3u8|Referer=https://giovang.vip/
+#EXTINF:-1 group-title="GIỜ VÀNG TV", A TÍ
+https://cdn.1livestream.tv/live/0e10939def07b40c4b25410b1f443f72/index.m3u8|Referer=https://giovang.vip/
+#EXTINF:-1 group-title="GIỜ VÀNG TV", A NGỌ
+https://cdn.giovangtv.club/1770191712_hd/1770191712_hd@720p.m3u8|Referer=https://giovang.vip/
+#EXTINF:-1 group-title="GIỜ VÀNG TV", A THÂN
+DGHK|Referer=https://giovang.vip/
 
 
 
@@ -332,6 +344,7 @@ http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/pr
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA",NBC Sports Washington (Geo)
 http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+
 
 
 
