@@ -23,10 +23,11 @@ https://v1tf1225.edgemaxcdn.org/live/xctv_blv_phimc/playlist.m3u8
 #EXTINF:-1 group-title="GÀ VÀNG TV", GÀ SIÊU PHỆ
 https://stm02bc43163716.stream.hdplaylink.com/live7/8ba39f98f7f54a08969ef02bffceff1f_720/playlist.m3u8|Referer=https://xem1.gv04.live|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="GÀ VÀNG TV", GÀ SIÊU NHÍ
-https://stm02bc43163716.stream.hdplaylink.com/live7/8a187fe25fc5433eaa210737b53d89cc_720/playlist.m3u8
 https://stm02bc43163716.stream.hdplaylink.com/live7/8a187fe25fc5433eaa210737b53d89cc_720/playlist.m3u8|Referer=https://xem1.gv04.live/
 #EXTINF:-1 group-title="GÀ VÀNG TV", GÀ SIÊU SON
 https://stm02bc43163716.stream.hdplaylink.com/live7/2acec2d8e6f34e748b70cc6ff21eaf82_720/playlist.m3u8|Referer=https://xem1.gv04.live/
+#EXTINF:-1 group-title="GÀ VÀNG TV", GÀ SIÊU MỎM
+https://stm02bc43163716.stream.hdplaylink.com/live7/c0fac5f231ed4ccf88429864b3bb4a5b_720/playlist.m3u8
 #EXTINF:-1 group-title="GÀ VÀNG TV", CVL 1
 https://live.alilicloud.com/live/e49a5d6d699c59c0cbbd16b93089454e/playlist.m3u8|Referer=https://xem1.gv04.live/
 #EXTINF:-1 group-title="GÀ VÀNG TV", CVL 2
@@ -35,9 +36,9 @@ https://live.alilicloud.com/live/0d9b41fb74f417a993856c257881b800/playlist.m3u8|
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU CAY
 https://stm02bc48435558.stream.hdplaylink.com/live3/2938bf035dbf43a1af6a3aeac8fb69ba_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", KAKA
-https://stm02bc48435558.stream.hdplaylink.com/live3/0abd33f7f58e4c519e9d9f37b333376a_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stm02bc48435558.stream.hdplaylink.com/live3/f02411cbd7a94119be520c58eb47a376_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", ARNE SLOT
-https://live.alilicloud.com/live/f581b25df18b34409263a14e436e1091/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stm02bc48435558.stream.hdplaylink.com/live3/1014615821974174a91ae4d12d08ecd9_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU PHÀM
 https://stm02bc48435558.stream.hdplaylink.com/live3/13389f42d3b648c3a78feeea243493f9_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="KHAN DAI A", SIÊU GÁY
@@ -325,6 +326,7 @@ http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/pr
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA",NBC Sports Washington (Geo)
 http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+
 
 
 
