@@ -7,6 +7,7 @@ https://d302.soft4game.com/o22/stream198/s/stream198/chunks.m3u8?nimblesessionid
 https://d302.soft4game.com/o22/stream554/o/stream554/chunks.m3u8?nimblesessionid=35931571&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMjowMDo1OSBBTSZoYXNoX3ZhbHVlPVdmNS9HUHZEb3Nmait0RkhhR3pYenc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 #EXTINF:-1 group-title="XTREAM", XT4|NBA: Oklahoma – Orlando
 https://a93.azplay24.me/hls/streama247637/index.m3u8?cst=5d72eef783e68cfc4c7a76e6cb182b89
+
 #EXTINF:-1 group-title="GIỜ VÀNG TV", A TỴ
 https://cdn.giovangtv.club/1770191712_hd/1770191712_hd@720p.m3u8
 #EXTINF:-1 group-title="GIỜ VÀNG TV", PERRY
@@ -20,6 +21,9 @@ https://v1tf1225.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 #EXTINF:-1 group-title="XAYCON TV", PHI MC
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_phimc/playlist.m3u8
+#EXTINF:-1 group-title="XAYCON TV", GIA CÁT DỰ
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_giacatdu/playlist.m3u8
+
 #EXTINF:-1 group-title="GÀ VÀNG TV", GÀ SIÊU PHỆ
 https://stm02bc43163716.stream.hdplaylink.com/live7/8ba39f98f7f54a08969ef02bffceff1f_720/playlist.m3u8|Referer=https://xem1.gv04.live|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="GÀ VÀNG TV", GÀ SIÊU NHÍ
@@ -45,6 +49,8 @@ https://stm02bc48435558.stream.hdplaylink.com/live3/13389f42d3b648c3a78feeea2434
 https://stm02bc48435558.global.hdplaylink.com/live3/af71675a72e847f8a6cc2be631367e10_720/chunklist.m3u8?ref=stm02bc48435558.stream.hdplaylink.com|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-group-title="KHAN DAI A", TIỂU MÂN
 https://live3.fastestcdn-global.com/live3/bba3de8bd81e46ab8a506e84472d4bde_720/index.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+
 #EXTINF:-1,AE Mundo
 http://179.1.87.75:8098/play/a0f1/index.m3u8
 #EXTINF:-1,AXN
@@ -326,6 +332,7 @@ http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/pr
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA",NBC Sports Washington (Geo)
 http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+
 
 
 
