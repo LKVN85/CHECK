@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="XTREAM", DZRITV|KVL: OK Okman - KB Stars
-https://d302.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTA6Mzk6MjMgQU0maGFzaF92YWx1ZT1rZk9BVXR4QmgwZG5XcGFHSDZUemF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+https://d302.soft4game.com/o22/stream85/o/stream85/chunks.m3u8?nimblesessionid=35972512&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTA6NDI6MDQgQU0maGFzaF92YWx1ZT13bGRMYVhWNWJleldxbmoxSDRFd05RPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="XTREAM", LIVETV|WTA. Abu Dhabi: Dayana Yastremska (W) – Ekaterina Alexandrova (W)
 https://a109.azplay24.me/hls/streama247821/index.m3u8?cst=c3a8a7440948460388b905b453903586
 #EXTINF:-1 group-title="XTREAM", LIVETV|WTA. OSTRAVA: Tamara Korpatsch (W) – Emiliana Arango (W)
 https://a113.azplay24.me/hls/streama248205/index.m3u8?cst=d44bc39b3792c4bf4f21d44f02e7d0cf
-#EXTINF:-1 group-title="XTREAM", DZRITV|VLB: RMUTT (w) - Nakornnont Sports University (w)
-https://d302.soft4game.com/o22/stream210/o/stream210/chunks.m3u8?nimblesessionid=35971965&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTA6Mjc6MTEgQU0maGFzaF92YWx1ZT1sWk5MRzI0ZVZtQy81RWk2Q2x3SUpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 group-title="XTREAM", DZRITV|VLB: Gwangju (w) - Hyundai (w)
+https://d302.soft4game.com/o22/stream86/o/stream86/chunks.m3u8?nimblesessionid=35972550&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTA6NDM6MzIgQU0maGFzaF92YWx1ZT10U0FmMklJaHFIK2Q4T1Y4dGNNbDJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 
 #EXTINF:-1 group-title="GIỜ VÀNG TV", A TỴ
 https://cdn.giovangtv.club/1770191712_hd/1770191712_hd@720p.m3u8|Referer=https://giovang.vip/
@@ -332,6 +332,7 @@ http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/pr
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA",NBC Sports Washington (Geo)
 http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+
 
 
 
