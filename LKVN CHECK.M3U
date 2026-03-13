@@ -1,538 +1,121 @@
-#EXTM3U
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/2
-#EXTVLCOPT: http-referrer=https://www.doomovie-hd
-https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/3
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-userAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/4
-#EXTVLCOPT: http-referrer=https://dooball123.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/5
-#EXTVLCOPT: http-referrer=https://warpdooball.net/
-userAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn1.googlecdnforstreaming.live/live/trueballthai1/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/6#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv
-userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/105.0.0.0 Safari/537.36
-https://dookeela.live/live-tv/epl1_sd#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/7
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186561&extension=m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/9
-#EXTVLCOPT: http-referrer=https://dooball-live.com/
-userAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://dolive.thaim3u.com/dooball-live.com/siamsport-1/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/10
-userAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT: http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/epl1_sd/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/11
-#EXTVLCOPT: http-referrer=https://doolive4k.tv/
-userAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/12
-#EXTVLCOPT: http-referrer=https://goal-th.com/
-userAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://goal-th.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5/?id=38&tv=TruePremierFootball1
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD1/13
-#EXTVLCOPT: http-referrer=https://fw4free.com/live.php
-userAgent: VLC/3.0.9 LibVLC/3.0.9
-https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD2
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD2/2
-#EXTVLCOPT: http-referrer=https://www.doomovie-hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", BALL 2/3
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-2/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", BALL 2/4
-#EXTVLCOPT: http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD2/5#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv
-userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/105.0.0.0 Safari/537.36
-https://dookeela.live/live-tv/epl2#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 3
-#EXTVLCOPT: http-referrer=https://dooball2you.com/
-https://dooball2you.com/live/tpf3/
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 3/1 64---
-http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115512&extension=ts&play_token=
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier HD3/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv
-userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/105.0.0.0 Safari/537.36
-https://dookeela.live/live-tv/epl3#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 4
-#EXTVLCOPT: http-referrer=https://dooball2you.com/
-https://dooball2you.com/live/tpf4/
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 4/1#
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/epl4
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 4/2 64
-http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115513&extension=ts&play_token=
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 5
-#EXTVLCOPT: http-referrer=https://dooball2you.com/
-https://dooball2you.com/live/tpf5/
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 5/1#
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/epl5
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Premier 5/1
-http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115515&extension=ts&play_token=
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 1
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 1/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-8/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 1/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/tsp1#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", TSPORT HD1/3
-#EXTVLCOPT: http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 2
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 2/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-9/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 2/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/tsp2#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 2/3
-#EXTVLCOPT: http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 3
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://dooball2you.com/wp-content/uploads/2023/09/truesport3.jpg
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 3/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-10/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 3/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/tsp3#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 3/3
-#EXTVLCOPT: http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport SPORT HD4
-#EXTVLCOPT: http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 5
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 5/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-11/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 5/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/tsp5#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 5/3
-#EXTVLCOPT: http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 7
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 7/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-12/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 7/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/tsp7#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", true sport 7/3
-#EXTVLCOPT: http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 1
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 1/1
-#EXTVLCOPT: http-referrer=https://www.andaman888th.com/
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/beinsport1/
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 1/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein1#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 1/3
-#EXTVLCOPT: http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/bsb-epl-bein1.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 1/4
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-6/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 2
-#EXTVLCOPT: http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 2/1
-#EXTVLCOPT: http-referrer=https://www.andaman888th.com/
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/beinsport2/
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 2/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-bein2#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 3
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 3/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/siamsport-7/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 3/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein3#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 3/3
-#EXTVLCOPT: http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/bsb-epl-bein3.stream/playlist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 4#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein4#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 5#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein5#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 6#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein6#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 7#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein7#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 8#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein8#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", bein 9#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/bein9#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", spotv 1
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", spotv 1/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/true-spotv-1/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", spotv 1/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv
-https://dookeela.live/live-tv/spotv#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", spotv 1/3
-#EXTVLCOPT: http-referrer=https://dooball2you.com/
-https://dooball2you.com/live/spotv1/
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", spotv 2
-#EXTVLCOPT: http-referrer=https://www.youdooball.com/
-https://www.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", spotv 2/1
-#EXTVLCOPT: http-referrer=https://doo-tv.com/
-https://dolive.thaim3u.com/doo-tv-football-com/true-spotv-2/playlist.m3u8?
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", spotv 2/2#
-#EXTVLCOPT: http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/spotv2#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", SPOTV 2/3
-#EXTVLCOPT: http-referrer=https://dooball2you.com/
-https://dooball2you.com/live/spotv2/
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Astro Supersport 1
-http://salamus2023.onlinehdhls.ru/lb/premium123/index.m3u8
-#EXTVLCOPT: http-referrer=http://onlinehdhls.ru/
-userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/105.0.0.0 Safari/537.36
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Astro Supersport 2
-http://salamus2023.onlinehdhls.ru/lb/premium124/index.m3u8
-#EXTVLCOPT: http-referrer=http://onlinehdhls.ru/
-userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/105.0.0.0 Safari/537.36
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Astro Supersport 3
-http://salamus2023.onlinehdhls.ru/lb/premium125/index.m3u8
-#EXTVLCOPT: http-referrer=http://onlinehdhls.ru/
-userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/105.0.0.0 Safari/537.36
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Astro Supersport 4
-http://salamus2023.onlinehdhls.ru/lb/premium126/index.m3u8
-#EXTVLCOPT: http-referrer=http://onlinehdhls.ru/
-userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/105.0.0.0 Safari/537.36
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", SIAMSPORT 1
-https://dookeela.live/live-tv/siamsport1#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  SIAMSPORT 1/1#
-https://dookeela.live/live-tv/siamsport1
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", SIAMSPORT 2
-https://dookeela.live/live-tv/siamsport2#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  SIAMSPORT 2/1#
-https://dookeela.live/live-tv/siamsport2
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", SIAMSPORT 3
-https://dookeela.live/live-tv/siamsport3#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  SIAMSPORT 3/1#
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/siamsport3
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", SIAMSPORT 4
-https://dookeela.live/live-tv/siamsport4#
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  SIAMSPORT 4/1#
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/siamsport4
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", J SPORTS 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", J SPORTS 2
-#EXTVLCOPT: http-referrer=https://dooball2you.com/
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", J SPORTS 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", J SPORTS 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Volleyball 1
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/volleyball1
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Volleyball 2
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/volleyball2
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Volleyball 3
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/volleyball3
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Volleyball 4
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/volleyball4
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD", Volleyball 5
-#EXTVLCOPT: http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/volleyball5
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 1--
-#EXTVLCOPT: http-referrer=https://24xball.co/
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 1/4
-#EXTVLCOPT: http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-1/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 1/6
-#EXTVLCOPT: http-referrer=https://www.ufa77.fun/
-https://www.ufa77.fun/channel?ch=baygonhero1
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 2---
-#EXTVLCOPT: http-referrer=https://24xball.co/
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai2/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 2/4
-#EXTVLCOPT: http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-2/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 2/6
-#EXTVLCOPT: http-referrer=https://www.ufa77.fun/
-https://www.ufa77.fun/channel?ch=baygonhero2
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 3---
-#EXTVLCOPT: http-referrer=https://24xball.co/
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai3/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 3/4
-#EXTVLCOPT: http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-3/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 3/6
-#EXTVLCOPT: http-referrer=https://www.ufa77.fun/
-https://www.ufa77.fun/channel?ch=baygonhero3
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 4---
-#EXTVLCOPT: http-referrer=https://24xball.co/
-https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai4/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 4/4
-#EXTVLCOPT: http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-4/chunks.m3u8
-    
-  
-#EXTINF:-1 group-title="NSA | SPORTS HD",  True Ball Thai 4/6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT: http-referrer=https://www.ufa77.fun/
-https://www.ufa77.fun/channel?ch=baygonhero4  
-
-  #EXTINF:-1 group-title="NSA | SPORTS HD", ⚽sports⚽
-  image: https://seeklogo.com/images/S/sports-logo-BB73BFD7B1-seeklogo.com.png
-  https://pastebin.com/edit/WFLuCksj
-  stations: 
-    
-#EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+[
+  {
+    "name": "VTV6",
+    "group": "Kenh TV Viet Nam",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/VTV6_logo.svg/200px-VTV6_logo.svg.png",
+    "url": "https://stream.vtvdigital.vn/vtv6/vtv6.isml/vtv6-audio_128000=128000-video=2000000.m3u8"
+  },
+  {
+    "name": "VTV5",
+    "group": "Kenh TV Viet Nam",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/VTV5_logo.svg/200px-VTV5_logo.svg.png",
+    "url": "https://stream.vtvdigital.vn/vtv5/vtv5.isml/vtv5.m3u8"
+  },
+  {
+    "name": "SCTV15 - The Thao",
+    "group": "Kenh TV Viet Nam",
+    "logo": "https://upload.wikimedia.org/wikipedia/vi/6/6e/SCTV15_logo.png",
+    "url": "THAY_LINK_SCTV15"
+  },
+  {
+    "name": "SCTV16 - The Thao",
+    "group": "Kenh TV Viet Nam",
+    "logo": "https://upload.wikimedia.org/wikipedia/vi/6/6e/SCTV15_logo.png",
+    "url": "THAY_LINK_SCTV16"
+  },
+  {
+    "name": "On Sports",
+    "group": "Kenh TV Viet Nam",
+    "logo": "https://example.com/onsports.png",
+    "url": "THAY_LINK_ONSPORTS"
+  },
+  {
+    "name": "The Thao TV",
+    "group": "Kenh TV Viet Nam",
+    "logo": "https://example.com/thethaotv.png",
+    "url": "THAY_LINK_THETHAOTV"
+  },
+  {
+    "name": "beIN Sports 1",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BeIN_Sports_1_Logo.svg/200px-BeIN_Sports_1_Logo.svg.png",
+    "url": "THAY_LINK_BEIN1"
+  },
+  {
+    "name": "beIN Sports 2",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BeIN_Sports_1_Logo.svg/200px-BeIN_Sports_1_Logo.svg.png",
+    "url": "THAY_LINK_BEIN2"
+  },
+  {
+    "name": "beIN Sports 3",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BeIN_Sports_1_Logo.svg/200px-BeIN_Sports_1_Logo.svg.png",
+    "url": "THAY_LINK_BEIN3"
+  },
+  {
+    "name": "K+1",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/vi/5/5e/K%2B_logo.png",
+    "url": "THAY_LINK_KPLUS1"
+  },
+  {
+    "name": "K+PM",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/vi/5/5e/K%2B_logo.png",
+    "url": "THAY_LINK_KPLUSPM"
+  },
+  {
+    "name": "K+NS",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/vi/5/5e/K%2B_logo.png",
+    "url": "THAY_LINK_KPLUSNS"
+  },
+  {
+    "name": "ESPN",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",
+    "url": "THAY_LINK_ESPN"
+  },
+  {
+    "name": "Fox Sports",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fox_Sports_logo.svg/200px-Fox_Sports_logo.svg.png",
+    "url": "THAY_LINK_FOXSPORTS"
+  },
+  {
+    "name": "Sky Sports Football",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://example.com/skysports.png",
+    "url": "THAY_LINK_SKYSPORTS"
+  },
+  {
+    "name": "TNT Sports 1",
+    "group": "Kenh The Thao Quoc Te",
+    "logo": "https://example.com/tntsports.png",
+    "url": "THAY_LINK_TNT1"
+  },
+  {
+    "name": "XoilacTV",
+    "group": "Stream Truc Tiep",
+    "logo": "https://example.com/xoilac.png",
+    "url": "THAY_LINK_XOILAC"
+  },
+  {
+    "name": "GavangTV",
+    "group": "Stream Truc Tiep",
+    "logo": "https://example.com/gavang.png",
+    "url": "THAY_LINK_GAVANG"
+  },
+  {
+    "name": "Socolive",
+    "group": "Stream Truc Tiep",
+    "logo": "https://example.com/socolive.png",
+    "url": "THAY_LINK_SOCOLIVE"
+  },
+  {
+    "name": "BunchaTV",
+    "group": "Stream Truc Tiep",
+    "logo": "https://bunchatv.com/favicon.ico",
+    "url": "THAY_LINK_BUNCHA"
+  }
