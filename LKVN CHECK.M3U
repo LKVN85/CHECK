@@ -1,11 +1,25 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="CHUNOTV", XIAOMI
-https://edgemaxcdn-1.bongco50.xyz/live/xiaomi-hd/playlist.m3u8
 #EXTINF:-1 group-title="CHUNOTV", BÁNH MỲ
-https://edgemaxcdn-1.bongco50.xyz/live/my-hd/playlist.m3u8
+https://edgemaxcdn-1.bongco50.xyz/live/my-hd/playlist.m3u8|Referer=https://rung90tv.live/
 #EXTINF:-1 group-title="CHUNOTV", IPHONE
-https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8
+https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8|Referer=https://chuno.tv/
+#EXTINF:-1 group-title="CHUNOTV", XIAOMI
+https://edgemaxcdn-1.bongco50.xyz/live/xiaomi-hd/playlist.m3u8|Referer=https://rung90tv.live/
+#EXTINF:-1 group-title="CHUNOTV", OPPO
+https://edgemaxcdn-1.bongco50.xyz/live/oppo-hd/playlist.m3u8|Referer=https://chuno.tv/
+#EXTINF:-1 group-title="CHUNOTV", HUAWEI
+https://edgemaxcdn-1.bongco50.xyz/live/huawei-hd/playlist.m3u8|Referer=https://rung90tv.live/
+#EXTINF:-1 group-title="CHUNOTV", CƠM RANG
+https://edgemaxcdn-1.bongco50.xyz/live/comrang-hd/playlist.m3u8|Referer=https://chuno.tv/
+#EXTINF:-1 group-title="CHUNOTV", COCA
+https://edgemaxcdn-1.bongco50.xyz/live/coca-hd/playlist.m3u8|Referer=https://rung90tv.live/
+#EXTINF:-1 group-title="CHUNOTV", BIMBIP
+https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8|Referer=https://chuno.tv/
+#EXTINF:-1 group-title="CHUNOTV", CHÁO HÀNH
+https://edgemaxcdn-1.bongco50.xyz/live/chaohanh-hd/playlist.m3u8|Referer=https://rung90tv.live/
+#EXTINF:-1 group-title="CHUNOTV", PHỞ
+https://edgemaxcdn-1.bongco50.xyz/live/pho-hd/playlist.m3u8|Referer=https://chuno.tv/
 
 # --- BRUNEI ---
 #EXTINF:-1 group-title="BRUNEI" tvg-id="Aneka" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka
