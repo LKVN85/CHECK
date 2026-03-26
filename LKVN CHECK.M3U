@@ -1,42 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="CHUNOTV", BÁNH MỲ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
+#EXTINF:-1 group-title="EU | FHD 4K", CHAO
+https://edgemaxcdn-1.bongco50.xyz/live/hanh-hd/playlist.m3u8|Referer=https://live1.rung90tv.live/
+#EXTINF:-1 group-title="EU | FHD 4K", MY A
 https://edgemaxcdn-1.bongco50.xyz/live/my-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", IPHONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", XIAOMI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/xiaomi-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", OPPO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/hanh-hd/playlist.m3u8
-https://edgemaxcdn-1.bongco50.xyz/live/oppo-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", HUAWEI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/huawei-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", CƠM RANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/comrang-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", COCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/coca-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", BIMBIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", CHÁO HÀNH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/hanh-hd/playlist.m3u8
-#EXTINF:-1 group-title="CHUNOTV", PHỞ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://live1.rung90tv.live/
-https://edgemaxcdn-1.bongco50.xyz/live/pho-hd/playlist.m3u8
+#EXTINF:-1 group-title="EU | FHD 4K", MY
+https://edgemaxcdn-1.bongco50.xyz/live/my-hd/playlist.m3u8|Referer=https://live1.rung90tv.live/
+#EXTINF:-1 group-title="EU | FHD 4K", RANG
+https://edgemaxcdn-1.bongco50.xyz/live/rang-hd/playlist.m3u8|Referer=https://live1.rung90tv.live/
+#EXTINF:-1 group-title="EU | FHD 4K", RA
+https://tfui0graucmt3gazdqqjqgr5dnmmfctusk5mbxbtse5tpgrzgr55qc7ts6pjo.100ycdn.com/edgemaxcdn-1.bongco50.xyz/live/rang-hd/playlist.m3u8?wsSession=448aca6e3a5187a2dfdd8b1b-177453420793818&wsIPSercert=d9522184af4c402ccd7a3a53dd5aac7b&wsiphost=local&wsBindIP=1
